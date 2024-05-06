@@ -1,0 +1,41 @@
+﻿@model User
+<div class="container shadow p-5">
+
+    @if (TempData["LoginMsg"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["LoginMsg"]
+        </div>
+    }
+
+    <form method="post" asp-action="UserLogin">
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Giriş Yap</h2>
+                <hr />
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="EMail"></label>
+                <input type="email" asp-for="EMail" class="form-control" />
+                <span asp-validation-for="EMail" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label asp-for="Password"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="row">
+                <div class="col-6 col-md-3">
+                    <button type="submit" class="btn btn-primary form-control">Giriş Yap</button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-controller="Account" asp-action="Register" class="btn btn-secondary form-control">
+                        Back To Register Menu
+                    </a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

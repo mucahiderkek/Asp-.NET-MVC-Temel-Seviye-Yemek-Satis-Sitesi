@@ -1,0 +1,61 @@
+﻿@model User
+
+
+<div class="container shadow p-5">
+
+    @if (TempData["RegisterMsg"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @TempData["RegisterMsg"]
+        </div>
+    }
+
+    <form method="post" asp-action="UserRegister">
+        <div class="border p-3 mt-4">
+            <div class="row pb-2">
+                <h2 class="text-primary">Kayıt Ol</h2>
+                <hr />
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="UserName"></label>
+                <input type="text" asp-for="UserName" class="form-control" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="mb-3 row">
+                <label asp-for="EMail"></label>
+                <input type="email" asp-for="EMail" class="form-control" />
+                <span asp-validation-for="EMail" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label asp-for="Password"></label>
+                <input type="password" asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 row">
+                <label>Yeniden Şifre</label>
+                <input type="password" asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+
+            <div class="mb-3 row">
+                <label asp-for="BirthDate"></label>
+                <input asp-for="BirthDate" class="form-control" />
+                <span asp-validation-for="BirthDate" class="text-danger"></span>
+            </div>
+
+            <div class="row">
+                <div class="col-6 col-md-3">
+                    <button type="submit" class="btn btn-primary form-control">Kayıt Ol</button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-secondary form-control">
+                        Back To Login Menu
+                    </a>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

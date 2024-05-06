@@ -1,0 +1,23 @@
+﻿    @model EatWorld.Models.Yemek
+
+    <div class="container shadow p-5">
+        <h1 class="text-center"><b>Kurs Bilgi</b></h1>
+
+        <form method="post">
+
+            <div class="card shadow p-3">
+                <div class="card-body">
+                    <h1 class="text-center mt-5 mb-5">Resim</h1>
+                    <a><h4 class="card-title text-center">@Model.Adı</h4></a>
+                    <hr />
+                    <div class="card-text"><strong>Açıklaması: </strong>@Model.Açıklaması</div>
+                    <hr />
+                    <div class="card-text"><strong>Kategorisi: </strong>@Model.Kategorisi</div>
+                    <hr />
+                    <h6 class="card-text"><strong>Fiyat: </strong>@Model.Fiyatı</h6>
+
+                    <br />
+                    <a asp-controller="Yemek" asp-action="Index" class="btn btn-secondary">Listeye Geri Dön</a>
+                </div>
+        </form>
+    </div>

@@ -1,0 +1,23 @@
+﻿@model Yemek
+
+<div class="container shadow p-5">
+	<h1 class="text-center"><b>Kitap Silme Listesi</b></h1>
+
+	<form method="post" asp-action="SilKitap">
+		<input asp-for="Id" hidden />
+
+		<div class="card shadow p-3 style="width:10rem;">
+			<div class="card-body">
+				<h2 class="card-title text-center">@Model.Adı</h2>
+				<h5 class="card-text text-center"> <strong>Yazar: </strong> @Model.Adı</h5>
+				<div class="card-text text-center">@Model.Açıklaması</div>
+				<div class="card-text text-center">@Model.Kategorisi</div>
+				<h5 class="card-text text-center"><strong>Fiyat: </strong>@Model.Fiyatı</h5>
+			</div>
+			<button type="submit" class="btn btn-danger">Sil</button>
+			<br />
+			<a asp-controller="Yemek" asp-action="Index" class="btn btn-dark">Listeye Geri Dön</a>
+
+		</div>
+	</form>
+</div>

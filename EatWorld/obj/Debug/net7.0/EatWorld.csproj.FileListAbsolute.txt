@@ -1,0 +1,390 @@
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CopyComplete
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+E:\ DOSYALAR \7.0\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CopyComplete
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+E:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.Up2Date
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+D:\ DOSYALAR \EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.Up2Date
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\7.0\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CopyComplete
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+C:\Users\Enesg\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\appsettings.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.staticwebassets.runtime.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.exe
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.deps.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.runtimeconfig.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\EatWorld.pdb
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Humanizer.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.AssemblyReference.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfoInputs.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.AssemblyInfo.cs
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.CoreCompileInputs.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.RazorAssemblyInfo.cs
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.EatWorld.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.build.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EatWorld.props
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\bundle\EatWorld.styles.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\scopedcss\projectbundle\EatWorld.bundle.scp.css
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.csproj.Up2Date
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\refint\EatWorld.dll
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.pdb
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\EatWorld.genruntimeconfig.cache
+C:\Users\bener\OneDrive\Masaüstü\EatWorld\EatWorld\obj\Debug\net7.0\ref\EatWorld.dll

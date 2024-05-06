@@ -1,0 +1,49 @@
+﻿@model Yemek
+
+<div class="container shadow p-5">
+
+	<h2 class="text-center">Ürün Ekleme</h2>
+
+	<form class="form-floating" method="post">
+		<div class="form-floating mb-3">
+			<input type="text" class="form-control"  asp-for="Adı" />
+			<label asp-for="Adı">Ad</label>
+		</div>
+
+		<div class="form-floating mb-3">
+			<input type="text" class="form-control" asp-for="Açıklaması" />
+			<label asp-for="Açıklaması">Açıklaması</label>
+		</div>
+
+		<div class="form-floating mb-3">
+			<input type="text" class="form-control" asp-for="Fiyatı" />
+			<label asp-for="Fiyatı">Fiyat</label>
+		</div>
+
+		<div class="form-floating mb-3">
+			<input type="text" class="form-control" asp-for="Kategorisi" />
+			<label asp-for="Kategorisi">Kategorisi</label>
+		</div>
+
+		<button class="btn btn-primary" type="submit">Ekle</button>
+		<a asp-action="Index" class="btn btn-dark">Geri Dön</a>
+
+		<div class="form-floating mb-3">
+			<input type="file" class="form-control  custom-file-input" asp-for="PhotoPath" placeholder="Ürün fotoğrafını seçiniz." />
+			<label asp-for="PhotoPath" class="custom-file-label">Photo</label>
+			<span asp-validation-for="PhotoPath" class="alert-danger"></span>
+		</div>
+		
+		@section Scripts {
+			<script>
+				$(document).ready(function () {
+					$('.custom-file-input').on("change", function () {
+						var fileName = $(this).val().split("\\").pop();
+						$(this).next('.custom-file-label').html(fileName);
+					});
+				});
+			</script>
+		}
+	</form>
+
+</div>
